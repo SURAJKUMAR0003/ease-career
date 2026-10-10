@@ -1,0 +1,8 @@
+{
+  "name": "Ease Career",
+  "description": "AI-powered career development platform featuring company-specific roadmaps, skill assessments, competitive debugging arena, and AI tutoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

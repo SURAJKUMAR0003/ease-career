@@ -1,0 +1,139 @@
+{
+  "users": {
+    "usr_1791613979723_ygqmq": {
+      "id": "usr_1791613979723_ygqmq",
+      "email": "rahul.ece@college.edu",
+      "passwordHash": "$2b$10$Nfmbm5OtQi18NrjBx5qLzeQ/pvr.moyPlOjnbAemp3v0tx481.kDW",
+      "name": "Rahul Sharma",
+      "emailVerified": true,
+      "createdAt": "2026-10-10T06:32:59.723Z"
+    },
+    "usr_1791620120592_tbyqv": {
+      "id": "usr_1791620120592_tbyqv",
+      "email": "surajk@gmail.comm",
+      "passwordHash": "$2b$10$hbiseHUSxQp4uBK4qhcvPuQPJKjofc5lVMWGFoFpe4IQrtB9qckfu",
+      "name": "suraj",
+      "emailVerified": true,
+      "createdAt": "2026-10-10T08:15:20.592Z"
+    },
+    "usr_1791620441221_wac4m": {
+      "id": "usr_1791620441221_wac4m",
+      "email": "surajk9190736@gmail.com",
+      "passwordHash": "$2b$10$iQFymgiqxg33JiAyy5xBn.bKQgcubGNW0MYZgRyajW4dCXuQv7qGW",
+      "name": "suraj",
+      "emailVerified": true,
+      "createdAt": "2026-10-10T08:20:41.221Z"
+    }
+  },
+  "profiles": {
+    "usr_1791613979723_ygqmq": {
+      "userId": "usr_1791613979723_ygqmq",
+      "field": "Software Development",
+      "company": "Google",
+      "role": "Software Engineer",
+      "experienceLevel": "Intermediate",
+      "preferredLanguage": "JavaScript",
+      "studyHoursPerDay": 2,
+      "targetTimelineWeeks": 12,
+      "updatedAt": "2026-10-10T08:16:39.213Z"
+    },
+    "usr_1791620441221_wac4m": {
+      "userId": "usr_1791620441221_wac4m",
+      "field": "Software Development",
+      "company": "Amazon",
+      "role": "Data Engineer",
+      "experienceLevel": "Basic knowledge",
+      "preferredLanguage": "Python",
+      "studyHoursPerDay": 2,
+      "targetTimelineWeeks": 12,
+      "updatedAt": "2026-10-10T08:21:11.735Z"
+    }
+  },
+  "assessments": {},
+  "roadmaps": {},
+  "submissions": {},
+  "bookmarks": {},
+  "practiceRecords": {},
+  "mockInterviews": {},
+  "userStats": {
+    "usr_1791613979723_ygqmq": {
+      "userId": "usr_1791613979723_ygqmq",
+      "xp": 200,
+      "level": 1,
+      "streak": 1,
+      "badges": [
+        "Orientation Completed"
+      ],
+      "lastActiveDate": "2026-10-10"
+    },
+    "usr_1791620120592_tbyqv": {
+      "userId": "usr_1791620120592_tbyqv",
+      "xp": 0,
+      "level": 1,
+      "streak": 1,
+      "badges": [],
+      "lastActiveDate": "2026-10-10"
+    },
+    "usr_1791620441221_wac4m": {
+      "userId": "usr_1791620441221_wac4m",
+      "xp": 50,
+      "level": 1,
+      "streak": 1,
+      "badges": [
+        "Orientation Completed"
+      ],
+      "lastActiveDate": "2026-10-10"
+    }
+  },
+  "activities": {
+    "usr_1791613979723_ygqmq": [
+      {
+        "id": "act_1791620199233",
+        "userId": "usr_1791613979723_ygqmq",
+        "type": "onboarding",
+        "title": "Career Target Configured",
+        "detail": "Targeting Google • Software Engineer (Intermediate)",
+        "xpEarned": 50,
+        "timestamp": "2026-10-10T08:16:39.233Z"
+      },
+      {
+        "id": "act_1791620148859",
+        "userId": "usr_1791613979723_ygqmq",
+        "type": "onboarding",
+        "title": "Career Target Configured",
+        "detail": "Targeting Google • Software Engineer (Intermediate)",
+        "xpEarned": 50,
+        "timestamp": "2026-10-10T08:15:48.859Z"
+      },
+      {
+        "id": "act_1791620064210",
+        "userId": "usr_1791613979723_ygqmq",
+        "type": "onboarding",
+        "title": "Career Target Configured",
+        "detail": "Targeting Google • Software Engineer (Intermediate)",
+        "xpEarned": 50,
+        "timestamp": "2026-10-10T08:14:24.210Z"
+      },
+      {
+        "id": "act_1791620056873",
+        "userId": "usr_1791613979723_ygqmq",
+        "type": "onboarding",
+        "title": "Career Target Configured",
+        "detail": "Targeting Google • Software Engineer (Intermediate)",
+        "xpEarned": 50,
+        "timestamp": "2026-10-10T08:14:16.873Z"
+      }
+    ],
+    "usr_1791620441221_wac4m": [
+      {
+        "id": "act_1791620471754",
+        "userId": "usr_1791620441221_wac4m",
+        "type": "onboarding",
+        "title": "Career Target Configured",
+        "detail": "Targeting Amazon • Data Engineer (Basic knowledge)",
+        "xpEarned": 50,
+        "timestamp": "2026-10-10T08:21:11.755Z"
+      }
+    ]
+  }
+}
